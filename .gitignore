@@ -7,3 +7,12 @@ node_modules/
 # Archivos temporales de IDEs
 .vscode/
 *.suo
+
+** crear aplicación node js 
+npm init -y
+
+** instalar express mysql
+npm i express MySQL
+
+** instalar body parser
+npm i body-parser
